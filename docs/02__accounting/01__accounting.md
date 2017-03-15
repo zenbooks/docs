@@ -5,7 +5,7 @@
 1. [Chart of accounts](#chart-of-accounts)
 04. Bookkeeping
 05. Accounting Equation
-06. Accounting Principles
+06. [Accounting Principles](accounting/05__accounting-principles.md)
 07. Financial Accounting
 08. Adjusting Entries
 09. Financial Statements
