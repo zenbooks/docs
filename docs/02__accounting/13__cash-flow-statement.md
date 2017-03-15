@@ -1,6 +1,6 @@
 # Introduction to Cash Flow Statement
 
-1. [What can the statement of cash flows tell us?](#what-can-the statement-of-cash-flows-tell-us?)
+1. [What can the statement of cash flows tell us?](#what-can-the statement-of-cash-flows-tell-us)
 
 The official name for the cash flow statement is the statement of cash flows. We will use both names throughout AccountingCoach.com.
 
