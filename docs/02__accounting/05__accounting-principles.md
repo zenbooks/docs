@@ -15,17 +15,17 @@ Since GAAP is founded on the basic accounting principles and guidelines, we can 
 **1. Economic Entity Assumption**
 The accountant keeps all of the business transactions of a sole proprietorship separate from the business owner's personal transactions. For legal purposes, a sole proprietorship and its owner are considered to be one entity, but for accounting purposes they are considered to be two separate entities.
 
-2. Monetary Unit Assumption
+**2. Monetary Unit Assumption**
 Economic activity is measured in U.S. dollars, and only transactions that can be expressed in U.S. dollars are recorded.
 
 Because of this basic accounting principle, it is assumed that the dollar's purchasing power has not changed over time. As a result accountants ignore the effect of inflation on recorded amounts. For example, dollars from a 1960 transaction are combined (or shown) with dollars from a 2016 transaction.
 
-3. Time Period Assumption
+**3. Time Period Assumption**
 This accounting principle assumes that it is possible to report the complex and ongoing activities of a business in relatively short, distinct time intervals such as the five months ended May 31, 2016, or the 5 weeks ended May 1, 2016. The shorter the time interval, the more likely the need for the accountant to estimate amounts relevant to that period. For example, the property tax bill is received on December 15 of each year. On the income statement for the year ended December 31, 2015, the amount is known; but for the income statement for the three months ended March 31, 2016, the amount was not known and an estimate had to be used.
 
 It is imperative that the time interval (or period of time) be shown in the heading of each income statement, statement of stockholders' equity, and statement of cash flows. Labeling one of these financial statements with "December 31" is not good enough–the reader needs to know if the statement covers the one week ended December 31, 2016 the month ended December 31, 2016 the three months ended December 31, 2016 or the year ended December 31, 2016.
 
-4. Cost Principle
+**4. Cost Principle**
 From an accountant's point of view, the term "cost" refers to the amount spent (cash or the cash equivalent) when an item was originally obtained, whether that purchase happened last year or thirty years ago. For this reason, the amounts shown on financial statements are referred to as historical cost amounts.
 
 Because of this accounting principle asset amounts are not adjusted upward for inflation. In fact, as a general rule, asset amounts are not adjusted to reflect any type of increase in value. Hence, an asset amount does not reflect the amount of money a company would receive if it were to sell the asset at today's market value. (An exception is certain investments in stocks and bonds that are actively traded on a stock exchange.) If you want to know the current value of a company's long-term assets, you will not get this information from a company's financial statements–you need to look elsewhere, perhaps to a third-party appraiser.
