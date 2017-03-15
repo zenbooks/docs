@@ -3,33 +3,33 @@
 1. [Accounting Basics](#accounting-basics)
 1. [Debits and credits](accounting/05__accounting-principles.md)
 1. [Chart of accounts](#chart-of-accounts)
-04. Bookkeeping
-05. Accounting Equation
-06. [Accounting Principles](accounting/05__accounting-principles.md)
-07. Financial Accounting
-08. Adjusting Entries
-09. Financial Statements
-10. Balance Sheet
-11. Income Statement
-12. Cash Flow Statement
-13. Financial Ratios
-14. Bank Reconciliation
-15. Accounts Receivable and Bad Debts Expense
-16. Accounts Payable
-17. Inventory and Cost of Goods Sold
-18. Depreciation
-19. Payroll Accounting
-20. Bonds Payable
-21. Stockholders' Equity
-22. Present Value of a Single Amount
-23. Present Value of an Ordinary Annuity
-24. Future Value of a Single Amount
-25. Nonprofit Accounting
-26. Break-even Point
-27. Improving Profits
-28. Evaluating Business Investments
-29. Manufacturing Overhead
-30. Nonmanufacturing Overhead
-31. Activity Based Costing
-32. Standard Costing
-33. Accounting Careers
+1. Bookkeeping
+1. Accounting Equation
+1. [Accounting Principles](accounting/05__accounting-principles.md)
+1. Financial Accounting
+1. Adjusting Entries
+1. Financial Statements
+1. Balance Sheet
+1. Income Statement
+1. Cash Flow Statement
+1. Financial Ratios
+1. Bank Reconciliation
+1. Accounts Receivable and Bad Debts Expense
+1. Accounts Payable
+1. Inventory and Cost of Goods Sold
+1. Depreciation
+1. Payroll Accounting
+1. Bonds Payable
+1. Stockholders' Equity
+1. Present Value of a Single Amount
+1. Present Value of an Ordinary Annuity
+1. Future Value of a Single Amount
+1. Nonprofit Accounting
+1. Break-even Point
+1. Improving Profits
+1. Evaluating Business Investments
+1. Manufacturing Overhead
+1. Nonmanufacturing Overhead
+1. Activity Based Costing
+1. Standard Costing
+1. Accounting Careers
