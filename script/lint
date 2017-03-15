@@ -1,0 +1,56 @@
+#!/bin/bash
+
+MAX_LINE_LENGTH=65
+
+cd ${BASH_SOURCE%/*}/..
+
+function print_help() {
+  echo "Lint documentation."
+  echo
+  echo "Linters:"
+  echo "  - Names for files and directories must start with a number to specify order."
+  echo "  - The maximum line length for code snippets is $MAX_LINE_LENGTH."
+  echo
+  echo "Usage: script/lint [options]"
+  echo
+  echo "Options:"
+  echo "  -h, --help      Print usage"
+  exit
+}
+
+function validate_file_and_dir_names() {
+  files=$(find docs/* -type f -name "*.md")
+  dirs=$(find docs/* -type d)
+
+  _validate_file_and_dir_names $files
+  _validate_file_and_dir_names $dirs
+}
+
+function _validate_file_and_dir_names() {
+  for path in "$@"; do
+    name=$(basename $path)
+
+    if [[ ! "$name" =~ ^[0-9]+__ ]]; then
+      echo "Names for files and directories must start with a number to specify order."
+      echo "Error: $name"
+      exit 1
+    fi
+  done
+}
+
+function validate_line_length_of_code_snippets() {
+  ps > /dev/null
+}
+
+while [[ "$1" == -* ]]; do
+  case $1 in
+    -h | --help )   print_help
+                    ;;
+    * )             print_help
+                    ;;
+  esac
+  shift
+done
+
+validate_file_and_dir_names
+validate_line_length_of_code_snippets

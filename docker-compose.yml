@@ -1,0 +1,8 @@
+version: "2"
+services:
+  docs:
+    build: .
+    command: script/epub
+    container_name: docs
+    volumes:
+      - .:/docs
