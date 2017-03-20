@@ -5,12 +5,12 @@
 1. [Balance Sheet – Assets](#balance-sheet–assets)
 1. [Balance Sheet – Liabilities and Stockholders' Equity](#balance-sheet–liabilities-and-stockholders'-equity)
 1. [Statement of Cash Flows, Double Entry System](#statement-of-cash-flows,-double-entry-system)
-1. Sample Transaction #1
-1. Sample Transactions #2
-1. Sample Transactions #3
-1. Sample Transactions #4
-1. Sample Transactions #5
-1. Sample Transactions #6
+1. [Sample Transaction #1](#sample-transaction-#1)
+1. [Sample Transactions #2](#sample-transactions-#2)
+1. [Sample Transactions #3](#sample-transactions-#3)
+1. [Sample Transactions #4](#sample-transactions-#4)
+1. [Sample Transactions #5](#sample-transactions-#5)
+1. [Sample Transactions #6](#sample-transactions-#6)
 
 
 ## Introduction to accounting basics
@@ -186,3 +186,334 @@ Income Statement accounts:
 * Expense accounts (Examples: Wages Expense, Rent Expense, Depreciation Expense)
 
 To help Joe really understand how this works, Marilyn illustrates the double entry with some sample transactions that Joe will likely encounter.
+
+## Sample Transaction #1
+
+On December 1, 2016 Joe starts his business Direct Delivery, Inc. The first transaction that Joe will record for his company is his personal investment of $20,000 in exchange for 5,000 shares of Direct Delivery's common stock. Direct Delivery's accounting system will show an increase in its account Cash from zero to $20,000, and an increase in its stockholders' equity account Common Stock by $20,000. Both of these accounts are balance sheet accounts. There are no revenues because *no* delivery fees were *earned* by the company, and there were no expenses.
+
+After Joe enters this transaction, Direct Delivery's balance sheet will look like this:
+
+```
+                      Direct Delivery Inc.
+                         Balance sheet
+                        December 1, 2016
+
+
+ASSETS                             LIABILITIES & STOCKHOLDERS' EQUITY
+———————————————————————————————    —————————————————————————————————————————————————————————
+Cash                 $   20,000    Liabilities
+                                   Stockholders' equity
+                                    Common stock                                  $   20,000
+
+                    ___________                                                   __________
+Total assets         $   20,000    Total liabilities & stockholders' equity       $   20,000
+                    ═══════════                                                   ══════════
+```
+
+Marilyn asks Joe if he can see that the balance sheet is just that-*in balance*. Joe looks at the total of $20,000 on the asset side, and looks at the $20,000 on the right side, and says yes, of course, he can see that it is indeed in balance.
+
+Marilyn shows Joe something called the **basic accounting equation**, which, she explains, is really the same concept as the balance sheet, it's just presented in an equation format:
+
+```
+Assets = Liabilities + Stockholders' (or Owners') Equity
+$20,000 = $0 + $20,000
+```
+
+The accounting equation (and the balance sheet) should always be in balance.
+
+**Debits and Credits**
+
+Did the first sample transaction follow the double entry system and affect two or more accounts? Joe looks at the balance sheet again and answers yes, both Cash and Common Stock were affected by the transaction.
+
+Marilyn introduces the next basic accounting concept: the double entry system requires that the same dollar amount of the transaction must be entered on both the *left* side of one account, and on the *right* side of another account. Instead of the word *left*, accountants use the word *debit*; and instead of the word *right*, accountants use the word *credit*. (The terms *debit* and credit are derived from Latin terms used 500 years ago.)
+
+**Here's a Tip:**
+
+*Debit* means *left*
+
+*Credit* means *right*
+
+Joe asks Marilyn how he will know which accounts he should debit—meaning he should enter the numbers on the left side of one account—and which accounts he should credit—meaning he should enter the numbers on the right side of another account. Marilyn points back to the basic accounting equation and tells Joe that if he memorizes this simple equation, it will be easier to understand the debits and credits.
+
+**Here's a Tip:**
+
+Memorizing the simple accounting equation will help you learn the debit and credit rules for entering amounts into the accounting records.
+
+Let's take a look at the accounting equation again:
+
+```
+Assets = Liabilities + Stockholders' (or Owners') Equity
+```
+
+Just as assets are on the left side (or debit side) of the accounting equation, the asset accounts in the general ledger have their balances on the left side. To *increase* an asset account's balance, you put more on the left side of the asset account. In accounting jargon, you *debit the asset account*. To *decrease* an asset account balance you *credit* the account, that is, you enter the amount on the right side.
+
+Just as liabilities and stockholders' equity are on the right side (or credit side) of the accounting equation, the liability and equity accounts in the general ledger have their balances on the right side. To *increase* the balance in a liability or stockholders' equity account, you put more on the right side of the account. In accounting jargon, you credit the liability or the equity account. To *decrease* a liability or equity, you debit the account, that is, you enter the amount on the left side of the account.
+
+As with all rules, there are exceptions, but Marilyn's reference to the accounting equation may help you to learn whether an account should be debited or credited.
+
+Since many transactions involve cash, Marilyn suggests that Joe memorize how the Cash account is affected when a transaction involves cash: if Direct Delivery *receives* cash, the Cash account is debited; when Direct Delivery *pays* cash, the Cash account is credited.
+
+**Here's a Tip:**
+
+When a company *receives* cash, the Cash account is *debited*.
+
+When the company *pays* cash, the Cash account is *credited*.
+
+Marilyn refers to the example of December 1. Since Direct Delivery received $20,000 in *cash* from Joe in exchange for 5,000 shares of common stock, one of the accounts for this transaction is Cash. Since cash was *received*, the Cash account will be *debited*.
+
+In keeping with double entry, two (or more) accounts need to be involved. Because the first account (Cash) was *debited*, the second account needs to be *credited*. All Joe needs to do is find the right account to credit. In this case, the second account is Common Stock. Common stock is part of stockholders' equity, which is on the right side of the accounting equation. As a result, it should have a credit balance, and to increase its balance the account needs to be *credited*.
+
+Accountants indicate accounts and amounts using the following format:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               Cash                         20,000
+                   Common Stock                            20,000
+```
+
+Accountants usually first show the account and amount to be debited. On the next line, the account to be credited is indented and the amount appears further to the right than the debit amount shown in the line above. This entry format is referred to as a general journal entry.
+
+(With the decrease in the price of computers and accounting software, it is rare to find a small business still using a manual system and making entries by hand. Accounting software has made the process of recording transactions so much easier that the general journal is rarely needed. In fact, entries are often generated automatically when a check or sales invoice is prepared.)
+
+**Note:** To learn about the roles of accountants and CPAs visit our free Accounting Career Center.
+
+## Sample Transactions #2
+
+Marilyn illustrates for Joe a second transaction. On December 2, Direct Delivery purchases a used delivery van for $14,000 by writing a check for $14,000. The two accounts involved are Cash and Vehicles (or Delivery Equipment). When the check is written, the accounting software will automatically make the entry into these two accounts.
+
+Marilyn explains to Joe what is happening within the software. Since the company *pays* $14,000, the Cash account is credited. (Accountants consider the checking account to be Cash, and the **TIP** you learned is that when cash is *paid*, you *credit* Cash.) So we know that the Cash account will be *credited* for $14,000 and we know the other account will have to be *debited* for $14,000. We need only identify the best account to debit. In this case we choose Vehicles (or Delivery Equipment) and the entry is:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               Vehicles                     14,000
+                    Cash                                   14,000
+```
+
+The balance sheet will look like this after the vehicle transaction is recorded:
+
+```
+                      Direct Delivery Inc.
+                         Balance sheet
+                        December 2, 2016
+
+
+ASSETS                             LIABILITIES & STOCKHOLDERS' EQUITY
+———————————————————————————————    —————————————————————————————————————————————————————————
+Cash                  $   6,000    Liabilities
+Vehicles              $  14,000    Stockholders' equity
+                                    Common stock                                  $   20,000
+
+                    ___________                                                   __________
+Total assets         $   20,000    Total liabilities & stockholders' equity       $   20,000
+                    ═══════════                                                   ══════════
+```
+
+The balance sheet and the accounting equation remain in balance:
+
+```
+Assets = Liabilities + Stockholders' (or Owners') Equity
+$20,000 = $0 + $20,000
+```
+
+As you can see in the balance sheet, the asset Cash decreased by $14,000 and another asset Vehicles increased by $14,000. Liabilities and stockholders' equity were not involved and did not change.
+
+## Sample Transactions #3
+
+The third sample transaction also occurs on December 2 when Joe contacts an insurance agent regarding insurance coverage for the vehicle Direct Delivery just purchased. The agent informs him that $1,200 will provide insurance protection for the next six months. Joe immediately writes a check for $1,200 and mails it in.
+
+Let's consider this transaction. Using double entry, we know there must be a minimum of two accounts involved—one (or more) of the accounts must be *debited*, and one (or more) must be *credited*.
+
+Since a check is written, we know that one of the accounts involved is Cash. Since cash was *paid*, the Cash account will be *credited*. (Take another look at the last **TIP.**) While we have not yet identified the second account, what we do know for certain is that the second account will have to be *debited*.
+
+At this point we have most of the entry-all we are missing is the *name* of the account to be debited:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               ????                          1,200
+                   Cash                                     1,200
+```
+
+We know the transaction involves insurance, and a quick look through the chart of accounts reveals two possibilities:
+
+*Prepaid Insurance (an asset account reported on the balance sheet) and Insurance Expense (an expense account reported on the income statement)*
+
+Assets include costs that are not yet expired (not yet used up), while expenses are costs that have expired (have been used up). Since the $1,200 payment is for an expense that will not expire in its entirety within the current month, it would be logical to debit the account Prepaid Insurance. (At the end of each month, when $200 has expired, $200 will be moved from Prepaid Insurance to Insurance Expense.)
+
+The entry in the general journal format is:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               Prepaid Insurance             1,200
+                   Cash                                    1,200
+```
+
+After the first three transactions have been recorded, the balance sheet will look like this:
+
+```
+                      Direct Delivery Inc.
+                         Balance sheet
+                        December 2, 2016
+
+
+ASSETS                             LIABILITIES & STOCKHOLDERS' EQUITY
+———————————————————————————————    —————————————————————————————————————————————————————————
+Cash                  $   4,800    Liabilities
+Prepaid insurance     $   1,200    Stockholders' equity
+Vehicles              $  14,000     Common stock                                  $   20,000
+
+                    ___________                                                   __________
+Total assets         $   20,000    Total liabilities & stockholders' equity       $   20,000
+                    ═══════════                                                   ══════════
+```
+
+Again, the balance sheet and the accounting equation are in balance and all of the changes occurred on the asset/left/debit side of the accounting equation. Liabilities and Stockholders' Equity were not affected by the insurance transaction.
+
+## Sample Transactions #4
+
+The fourth transaction occurs on December 3, when a customer gives Direct Delivery a check for $10 to deliver two parcels on that day. Because of double entry, we know there must be a minimum of two accounts involved—one of the accounts must be debited, and one of the accounts must be credited.
+
+Because Direct Delivery *received* $10, it must *debit* the account Cash. It must also *credit* a second account for $10. The second account will be Service Revenues, an income statement account. The reason Service Revenues is *credited* is because Direct Delivery must report that it *earned* $10 (not because it received $10). Recording revenues when they are earned results from a basic accounting principle known as the revenue recognition principle. The following tip reflects that principle.
+
+**Here's a Tip:**
+
+Revenues accounts are *credited* when the company *earns* a fee (or sells merchandise) regardless of whether cash is received at the time.
+
+Here are the two parts of the transaction as they would look in the general journal format:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               Cash                             10
+                    Services Revenues                          10
+```
+
+## Sample Transactions #5
+
+Let's assume that on December 3 the company gets its second customer-a local company that needs to have 50 parcels delivered immediately. Joe's price of $250 is very appealing, so Joe's company is hired to deliver the parcels. The customer tells Joe to submit an invoice for the $250, and they will pay it within seven days.
+
+Joe delivers the 50 parcels on December 3 as agreed, meaning that on December 3 Direct Delivery has *earned* $250. Hence the $250 is reported as revenues on *December 3*, even though the company did not receive any cash on that day. The *effort* needed to complete the job was done on December 3. (Depositing the check for $250 in the bank when it arrives seven days later is not considered to take any effort.)
+
+Let's identify the two accounts involved and determine which needs a debit and which needs a credit.
+
+Because Direct Delivery has earned the fees, one account will be a revenues account, such as Service Revenues. (If you refer back to the last **TIP**, you will read that revenue accounts—such as Service Revenues—are usually credited, meaning the second account will need to be debited.)
+
+In the general journal format, here's what we have identified so far:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               ????                            250
+                    Services Revenues                         250
+```
+
+We know that the unnamed account cannot be Cash because the company did not receive money on December 3. However, the company has earned the right to receive the money in seven days. The account title for the money that Direct Delivery has a right to receive for having provided the service is Accounts Receivable (an asset account).
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               Accounts Receivable             250
+                    Services Revenues                         250
+```
+
+Again, reporting revenues when they are earned results from the basic accounting principle known as the revenue recognition principle.
+
+## Sample Transactions #6
+
+For simplicity, let's assume that the only expense incurred by Direct Delivery so far was a fee to a temporary help agency for a person to help Joe deliver parcels on December 3. The temp agency fee is $80 and is due by December 12.
+
+If a company does not pay cash immediately, you cannot credit Cash. But because the company owes someone the money for its purchase, we say it has an **obligation** or **liability** to pay. Most accounts involved with obligations have the word "payable" in their name, and one of the most frequently used accounts is Accounts Payable. Also keep in mind that expenses are almost always *debited*.
+
+The accounts and amounts for the temporary help are:
+
+```
+               Account Name                  Debit         Credit                          
+═════════════════════════════════════════════════════════════════
+               Temporary Help Expense           80
+                    Accounts Payable                           80
+```
+
+**Here's a Tip:**
+
+Expenses are (almost) always debited.
+
+**Here's a Tip:**
+
+If a company does not pay cash right away for an expense or for an asset, you cannot credit Cash. Because the company owes someone the money for its purchase, we say it has an obligation or liability to pay. The most likely liability account involved in business obligations is Accounts Payable.
+
+Revenues and expenses appear on the income statement as shown below:
+
+```
+                      Direct Delivery Inc.
+                        Income Statement
+            For the Three Days Ended December 3, 2016
+
+
+Services revenues          $   260
+Temporary help expense     $    80
+                         _________                                               
+Net income                 $   180
+                         ═════════                                                
+```
+
+
+After the entries through December 3 have been recorded, the balance sheet will look like this:
+
+```
+                      Direct Delivery Inc.
+                         Balance sheet
+                        December 3, 2016
+
+
+ASSETS                             LIABILITIES & STOCKHOLDERS' EQUITY
+———————————————————————————————    —————————————————————————————————————————————————————————
+Cash                  $   4,810    Liabilities
+Accounts receivable   $     250     Accounts payable                              $       80
+Prepaid insurance     $   1,200    Stockholders' equity
+Vehicles              $  14,000     Common stock                                  $   20,000
+                                   Retained earnings                              $      180
+                                     Total stockholders' equity                   $   20,180
+
+                    ___________                                                   __________
+Total assets         $   20,260    Total liabilities & stockholders' equity       $   20,260
+                    ═══════════                                                   ══════════
+```
+
+Notice that the year-to-date net income (bottom line of the income statement) increased Stockholders' Equity by the same amount, $180. This connection between the income statement and balance sheet is important. For one, it keeps the balance sheet and the accounting equation in balance. Secondly, it demonstrates that revenues will cause the stockholders' equity to increase and expenses will cause stockholders' equity to decrease. After the end of the year financial statements are prepared, you will see that the income statement accounts (revenue accounts and expense accounts) will be closed or zeroed out and their balances will be transferred into the Retained Earnings account. This will mean the revenue and expense accounts will start the new year with zero balances—allowing the company "to keep score" for the new year.
+
+Marilyn suggested that perhaps this introduction was enough material for their first meeting. She wrote out the following notes, summarizing for Joe the important points of their discussion:
+
+**1. When a company pays cash for something**, the company will *credit* Cash and will have to *debit* a second account. Assuming that a company prepares *monthly* financial statements—
+
+* If the amount is used up or will expire in the current month, the account to be debited will be an expense account. (Advertising Expense, Rent Expense, Wages Expense are three examples.)
+
+* If the amount is *not* used up or does *not* expire in the current month, the account to be debited will be an asset account. (Examples are Prepaid Insurance, Supplies, Prepaid Rent, Prepaid Advertising, Prepaid Association Dues, Land, Buildings, and Equipment.)
+
+* If the amount reduces a company's obligations, the account to be debited will be a liability account. (Examples include Accounts Payable, Notes Payable, Wages Payable, and Interest Payable.)
+
+**2. When a company receives cash**, the company will *debit* Cash and will have to credit another account. Assuming that a company will prepare *monthly* financial statements—
+
+* If the amount received is from a cash sale, or for a service that has just been performed but has not yet been recorded, the account to be credited is a revenue account such as Service Revenues or Fees Earned.
+
+* If the amount received is an advance payment for a service that has not yet been performed or earned, the account to be *credited* is Unearned Revenue.
+
+* If the amount received is a payment from a customer for a sale or service delivered earlier and has already been recorded as revenue, the account to be credited is Accounts Receivable.
+
+* If the amount received is the proceeds from the company signing a promissory note, the account to be credited is Notes Payable.
+
+* If the amount received is an investment of additional money by the owner of the corporation, a stockholders' equity account such as Common Stock is credited.
+
+**Note:** To learn more about debits and credits, go to Explanation of Debits and Credits and Quiz for Debits and Credits.
+
+3. Revenues are recorded as Service Revenues or Sales when the service or sale has been performed, *not* when the cash is received. This reflects the basic accounting principle known as the revenue recognition principle.
+
+1. Expenses are matched with revenues or with the period of time shown in the heading of the income statement, *not* in the period when the expenses were paid. This reflects the basic accounting principle known as the matching principle.
+
+1. The financial statements also reflect the basic accounting principle known as the cost principle. This means assets are shown on the balance sheet at their *original cost* or *less* and not at their current value. The income statement expenses also reflect the cost principle. For example, the depreciation expense is based on the *original cost* of the asset being depreciated and *not* on the current replacement cost.
+
+**Additional Information and Resources**
+
+Because the material covered here is considered an introduction to this topic, many complexities have been omitted. You should always consult with an accounting professional for assistance with your own specific circumstances.
