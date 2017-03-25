@@ -194,20 +194,21 @@ On December 1, 2016 Joe starts his business Direct Delivery, Inc. The first tran
 After Joe enters this transaction, Direct Delivery's balance sheet will look like this:
 
 ```
-                      Direct Delivery Inc.
-                         Balance sheet
-                        December 1, 2016
+                     Direct Delivery Inc.
+                        Balance sheet
+                       December 1, 2016
 
 
-ASSETS                             LIABILITIES & STOCKHOLDERS' EQUITY
-———————————————————————————————    —————————————————————————————————————————————————————————
-Cash                 $   20,000    Liabilities
-                                   Stockholders' equity
-                                    Common stock                                  $   20,000
+ASSETS                 LIABILITIES & STOCKHOLDERS' EQUITY
+—————————————————————— ——————————————————————————————————————————
+Cash          $ 20,000 Liabilities
+                       Stockholders' equity
+                        Common stock                     $ 20,000
 
-                    ___________                                                   __________
-Total assets         $   20,000    Total liabilities & stockholders' equity       $   20,000
-                    ═══════════                                                   ══════════
+
+              ________ Total liabilities                 ________
+Total assets  $ 20,000           & stockholders' equity  $ 20,000
+
 ```
 
 Marilyn asks Joe if he can see that the balance sheet is just that-*in balance*. Joe looks at the total of $20,000 on the asset side, and looks at the $20,000 on the right side, and says yes, of course, he can see that it is indeed in balance.
