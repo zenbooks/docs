@@ -1,11 +1,11 @@
 # Accounting
 
 1. [Accounting Basics](#accounting-basics)
-1. [Debits and credits](accounting/05__accounting-principles.md)
+1. [Debits and credits](#debits-and-credits)
 1. [Chart of accounts](#chart-of-accounts)
 1. Bookkeeping
 1. Accounting Equation
-1. [Accounting Principles](accounting/05__accounting-principles.md)
+1. [Accounting Principles](#accounting-principles)
 1. Financial Accounting
 1. Adjusting Entries
 1. Financial Statements

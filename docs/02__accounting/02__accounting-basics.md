@@ -228,17 +228,17 @@ Did the first sample transaction follow the double entry system and affect two o
 
 Marilyn introduces the next basic accounting concept: the double entry system requires that the same dollar amount of the transaction must be entered on both the *left* side of one account, and on the *right* side of another account. Instead of the word *left*, accountants use the word *debit*; and instead of the word *right*, accountants use the word *credit*. (The terms *debit* and credit are derived from Latin terms used 500 years ago.)
 
-**Here's a Tip:**
+>**Here's a Tip:**
 
-*Debit* means *left*
+>*Debit* means *left*
 
-*Credit* means *right*
+>*Credit* means *right*
 
 Joe asks Marilyn how he will know which accounts he should debit—meaning he should enter the numbers on the left side of one account—and which accounts he should credit—meaning he should enter the numbers on the right side of another account. Marilyn points back to the basic accounting equation and tells Joe that if he memorizes this simple equation, it will be easier to understand the debits and credits.
 
-**Here's a Tip:**
+>**Here's a Tip:**
 
-Memorizing the simple accounting equation will help you learn the debit and credit rules for entering amounts into the accounting records.
+>Memorizing the simple accounting equation will help you learn the debit and credit rules for entering amounts into the accounting records.
 
 Let's take a look at the accounting equation again:
 
