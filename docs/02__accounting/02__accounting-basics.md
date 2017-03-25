@@ -254,11 +254,11 @@ As with all rules, there are exceptions, but Marilyn's reference to the accounti
 
 Since many transactions involve cash, Marilyn suggests that Joe memorize how the Cash account is affected when a transaction involves cash: if Direct Delivery *receives* cash, the Cash account is debited; when Direct Delivery *pays* cash, the Cash account is credited.
 
-**Here's a Tip:**
+>**Here's a Tip:**
 
-When a company *receives* cash, the Cash account is *debited*.
+>When a company *receives* cash, the Cash account is *debited*.
 
-When the company *pays* cash, the Cash account is *credited*.
+>When the company *pays* cash, the Cash account is *credited*.
 
 Marilyn refers to the example of December 1. Since Direct Delivery received $20,000 in *cash* from Joe in exchange for 5,000 shares of common stock, one of the accounts for this transaction is Cash. Since cash was *received*, the Cash account will be *debited*.
 
