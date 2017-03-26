@@ -2,7 +2,7 @@
 
 1. [Introduction to accounting basics](#introduction-to-accounting-basics)
 1. [Income Statement](#income-statement)
-1. [Balance Sheet – Assets](#balance-sheet–assets)
+1. [Balance Sheet – Assets](#balance-sheet---assets)
 1. [Balance Sheet – Liabilities and Stockholders' Equity](#balance-sheet–liabilities-and-stockholders'-equity)
 1. [Statement of Cash Flows, Double Entry System](#statement-of-cash-flows,-double-entry-system)
 1. [Sample Transaction #1](#sample-transaction-#1)
