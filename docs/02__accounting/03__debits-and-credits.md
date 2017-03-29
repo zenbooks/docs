@@ -1,9 +1,19 @@
-# Debits and Credits (id: debits-and-credits)
+# Debits and Credits 
 
 1. [Introduction to Debits and Credits](#introduction-to-debits-and-credits)
-1. [T-accounts](#T-accounts)
+1. [What is an account?](#what-is-an-account)
+1. [Double-entry accounting](#double-entry-accounting)
+1. [Debits and credits](#debits-and-credits)
+1. [T-accounts](#t-accounts)
+1. [Journal entries](#journal-entries)
+1. [When cash is debited and credited](#when-cash-is-debited-and-credited)
 1. [Normal balances](#normal-balances)
-1. [Bank's Debits & Credits](#bank's-debits-& -credits)
+1. [Revenues and gains are usually credited](#revenues-and-gains-are-usually-credited)
+1. [Expenses and losses are usually debited](#expenses-and-losses-are-usually-debited)
+1. [Permanent and temporary accounts](#permanent-and-temporary-accounts)
+1. [Bank's Debits & Credits](#banks-debits-and-credits)
+1. [Bank's balance sheet](#banks-balance-sheet)
+1. [Recap](#recap)
 
 ## Introduction to debits and credits
 
@@ -61,20 +71,20 @@ To debit an account means to enter an amount on the left side of the account. To
 
 Generally these types of accounts are *increased* with a debit:
 
-* Dividends (Draws)
-* Expenses
-* Assets
-* Losses
+* **D**ividends (Draws)
+* **E**xpenses
+* **A**ssets
+* **L**osses
 
-You might think of **D - E - A - L** (First letter of each word) when recalling the accounts that are *increased* with a debit.
+You might think of **D - E - A - L** when recalling the accounts that are *increased* with a debit.
 
 Generally the following types of accounts are *increased* with a credit:
 
-* Gains
-* Income
-* Revenues
-* Liabilities
-* Stockholders' (Owner's) Equity
+* **G**ains
+* **I**ncome
+* **R**evenues
+* **L**iabilities
+* **S**tockholders' (Owner's) Equity
 
 You might think of **G - I - R - L - S** when recalling the accounts that are *increased* with a credit.
 
