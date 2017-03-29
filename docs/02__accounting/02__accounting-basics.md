@@ -1,17 +1,18 @@
 # Accounting basics 
 
 1. [Introduction to accounting basics](#introduction-to-accounting-basics)
+1. [A story for relating to accounting basics](#a-story-for-relating-to-accounting-basics)
 1. [Income Statement](#income-statement)
 1. [Balance Sheet – Assets](#balance-sheet---assets)
 1. [Balance Sheet – Liabilities and Stockholders' Equity](#balance-sheet---liabilities-and-stockholders-equity)
 1. [Statement of Cash Flows](#statement-of-cash-flows)
 1. [Double Entry System](#double-entry-system)
 1. [Sample Transaction #1](#sample-transaction-1)
-1. [Sample Transactions #2](#sample-transaction-2)
-1. [Sample Transactions #3](#sample-transaction-3)
-1. [Sample Transactions #4](#sample-transaction-4)
-1. [Sample Transactions #5](#sample-transaction-5)
-1. [Sample Transactions #6](#sample-transaction-6)
+1. [Sample Transactions #2](#sample-transactions-2)
+1. [Sample Transactions #3](#sample-transactions-3)
+1. [Sample Transactions #4](#sample-transactions-4)
+1. [Sample Transactions #5](#sample-transactions-5)
+1. [Sample Transactions #6](#sample-transactions-6)
 
 ## Introduction to accounting basics
 
