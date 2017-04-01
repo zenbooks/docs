@@ -3,6 +3,14 @@
 1. [Introduction to the accounting equation](#introduction-to-the-accounting-equation)
 1. [Balance sheet and income statement](#balance-sheet-and-income-statement)
 1. [Accounting equation for a sole proprietorship](#accounting-equation-for-a-sole-proprietorship)
+1. [Sole proprietorship transaction #1.](#sole-proprietorship-transaction--1.)
+1. [Sole proprietorship transaction #2.](#sole-proprietorship-transaction--2.)
+1. [Sole proprietorship transaction #3.](#sole-proprietorship-transaction--3.)
+1. [Sole proprietorship transaction #4.](#sole-proprietorship-transaction--4.)
+1. [Sole proprietorship transaction #5.](#sole-proprietorship-transaction--5.)
+1. [Sole proprietorship transaction #6.](#sole-proprietorship-transaction--6.)
+1. [Sole proprietorship transaction #7.](#sole-proprietorship-transaction--7.)
+1. [Sole proprietorship transaction #8.](#sole-proprietorship-transaction--8.)
 
 ## Introduction to the accounting equation
 
@@ -43,13 +51,23 @@ If a company keeps accurate records, the accounting equation will always be "in 
 
 A company keeps track of all of its transactions by recording them in accounts in the company's general ledger. Each account in the general ledger is designated as to its type: asset, liability, owner's equity, revenue, expense, gain, or loss account.
 
-The [balance sheet](#TODO) is also known as the statement of financial position and it reflects the accounting equation. The balance sheet reports a company's assets, liabilities, and owner's (or stockholders') equity at a specific point in time. Like the accounting equation, it shows that a company's total amount of assets equals the total amount of liabilities plus owner's (or stockholders') equity.
+**Balance Sheet and Income Statement**
 
-The [income statement](#TODO) is the financial statement that reports a company's revenues and expenses and the resulting net income. While the balance sheet is concerned with one point in time, the income statement covers a time interval or period of time. The income statement will explain part of the change in the owner's or stockholders' equity during the time interval between two balance sheets.
+The balance sheet is also known as the statement of financial position and it reflects the accounting equation. The balance sheet reports a company's assets, liabilities, and owner's (or stockholders') equity at a specific point in time. Like the accounting equation, it shows that a company's total amount of assets equals the total amount of liabilities plus owner's (or stockholders') equity.
+
+The income statement is the financial statement that reports a company's revenues and expenses and the resulting net income. While the balance sheet is concerned with one point in time, the income statement covers a time interval or period of time. The income statement will explain part of the change in the owner's or stockholders' equity during the time interval between two balance sheets.
 
 In the following examples on this topic, we show how a given transaction affects the accounting equation. We also show how the same transaction affects specific accounts by providing the journal entry that is used to record the transaction in the company's general ledger.
 
+**Examples**
+
+In our examples in the following pages of this topic, we show how a given transaction affects the accounting equation. We also show how the same transaction affects specific accounts by providing the journal entry that is used to record the transaction in the company's general ledger.
+
 Our examples will show the effect of each transaction on the balance sheet and income statement. Our examples also assume that the accrual basis of accounting is being followed.
+
+Parts 2 - 6 illustrate transactions involving a sole proprietorship.
+
+Parts 7 - 10 illustrate almost identical transactions as they would take place in a corporation.
 
 ## Accounting equation for a sole proprietorship
 
@@ -89,7 +107,7 @@ This transaction is recorded in the asset account Cash and the owner's equity ac
 
 ```
 Date              Account Name                     Debit          Credit
-—————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————————————————————————————
 Dec. 1, 2016      Cash                             10,000
                       J. Ott, Capital                             10,000
 ```
@@ -109,7 +127,7 @@ Cash                      $  10,000
                                              ───────────────────────────────────
                                              J. Ott, Capital           $  10,000
 
-                          ═════════                                    ═════════
+                          _________                                    _________
 Total                     $  10,000          Total                     $  10,000
 ```
 
@@ -130,12 +148,24 @@ This transaction is recorded in the asset account Cash and the owner's equity ac
 
 ```
 Date              Account Name                     Debit          Credit
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Dec. 2, 2016      J. Ott, Drawing                  100
-                      Cash                                        100
+————————————————————————————————————————————————————————————————————————
+Dec. 2, 2016      J. Ott, Drawing                    100
+                      Cash                                           100
 ```
 
 Since the transactions of December 1 and 2 were each in balance, the sum of both transactions should also be in balance:
+
+```
+Transaction     Assets   =   Liabilities   +   Owner's equity
+          1   +$10,000   =     No effect   +         +$10,000
+          2      -$100   =     No effect   +            -$100
+                ———————       ——————————             ————————
+      Total     $9,900   =            $0   +           $9,900
+```
+
+The totals indicate that ASC has assets of $9,900 and the source of those assets is the owner of the company. You can also conclude that the company has assets or resources of $9,900 and the only claim against those resources is the owner's claim.
+
+The December 2 balance sheet will communicate the company's financial position as of midnight on December 2:
 
 ```
                             Accounting Software Co.
@@ -150,24 +180,22 @@ Cash                      $   9,900
                                              ───────────────────────────────────
                                              J. Ott, Capital           $   9,900
 
-                          ═════════                                    ═════════
+                          _________                                    _________
 Total                     $   9,900          Total                     $   9,900
 ```
 
-The totals indicate that ASC has assets of $9,900 and the source of those assets is the owner of the company. You can also conclude that the company has assets or resources of $9,900 and the only claim against those resources is the owner's claim.
-
-The December 2 balance sheet will communicate the company's financial position as of midnight on December 2:
-
 ```
-Transaction     Assets   =   Liabilities   +   Owner's equity
-          1   +$10,000   =     No effect   +         +$10,000
-          2      -$100   =     No effect   +            -$100
-              ════════       ═══════════       ══════════════
-      Total     $9,900   =            $0   +           $9,900
+                                Beginning owner's equity               $       0
+                                + Owner's investment                   +  10,000
+                                + Net income                           +       0
+                                                                       _________
+                                   Subtotal                            $  10,000
+                                - Owner's draws                        -     100
+                                                                       _________
+                                Ending owner's equity, Dec. 2          $   9,900                                       
 ```
 
 Withdrawals of company assets by the owner for the owner's personal use are known as "draws." Since draws are not expenses, the transaction is not reported on the company's income statement.
-
 
 **Sole proprietorship transaction #3.**
 
@@ -201,7 +229,7 @@ Transaction     Assets   =   Liabilities   +   Owner's equity
                +$5,000
           3              =     No effect   +        No effect
                -$5,000
-              ________       ___________       ______________
+              ————————         —————————            —————————
       Total     $9,900   =            $0   +           $9,900
 ```
 
@@ -223,7 +251,18 @@ Equipment              $   5,000 OWNER'S EQUITY
                                  J. Ott, Capital        $   9,900
 
                        _________                       __________
-Total                  $   9,900 Total                 $   9,900
+Total                  $   9,900 Total                  $   9,900
+```
+
+```
+                 Beginning owner's equity               $       0
+                 + Owner's investment                   +  10,000
+                 + Net income                           +       0
+                                                        _________
+                    Subtotal                            $  10,000
+                 - J. Ott, Drawing                      -     100
+                                                        _________
+                 Ending owner's equity, Dec. 3          $   9,900                                       
 ```
 
 The purchase of equipment is not an immediate expense. It will become part of depreciation expense only after it is placed into service. We will assume that as of December 3 the equipment has not been placed into service, therefore, no expense will appear on an income statement for the period of December 1 through December 3.
@@ -243,7 +282,7 @@ This transaction is recorded in the asset account Cash and the liability account
 
 ```
 Date              Account Name                     Debit          Credit
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+————————————————————————————————————————————————————————————————————————
 Dec. 4, 2016      Cash                             7,000
                       Notes Payable                               7,000
 ```
@@ -258,7 +297,7 @@ Transaction     Assets   =   Liabilities   +   Owner's equity
           3              =     No effect   +        No effect
                -$5,000
           4    +$7,000   =       +$7,000   +        No effect
-              ════════       ═══════════       ══════════════
+              ————————           ———————            —————————
       Total    $16,900   =        $7,000   +           $9,900
 ```
 
@@ -272,16 +311,27 @@ The balance sheet dated December 4 will report ASC's financial position as of th
                                December 4, 2016
 
 
-ASSETS                                       LIABILITIES
-───────────────────────────────────          ───────────────────────────────────
-Cash                      $  11,900          Notes Payable             $   7,000
+ASSETS                                  LIABILITIES
+───────────────────────────────────  ───────────────────────────────────
+Cash                      $  11,900  Notes Payable             $   7,000
 Equipment                 $   5,000          
-                                             OWNER'S EQUITY
-                                             ───────────────────────────────────
-                                             J. Ott, Capital           $   9,900
+                                     OWNER'S EQUITY
+                                     ───────────────────────────────────
+                                     J. Ott, Capital           $   9,900
 
-                          ═════════                                    ═════════
-Total                     $  16,900          Total                     $  16,900
+————————————————————————————————————————————————————————————————————————
+Total                     $  16,900  Total                     $  16,900
+```
+
+```
+                        Beginning owner's equity               $       0
+                        + Owner's investment                   +  10,000
+                        + Net income                           +       0
+                                                               _________
+                           Subtotal                            $  10,000
+                        - Owner's draws                        -     100
+                                                               _________
+                        Ending owner's equity, Dec. 4          $   9,900                                       
 ```
 
 The proceeds of the bank loan are not considered to be revenue since ASC did not earn the money by providing services, investing, etc. As a result, there is no income statement effect from this transaction.
@@ -290,49 +340,366 @@ The proceeds of the bank loan are not considered to be revenue since ASC did not
 
 On December 5, 2016 Accounting Software Co. pays $600 for ads that were run in recent days. The effect of this advertising transaction on the accounting equation is:
 
-14x-simple-table-12
+```
+Assets     =  Liabilities   +   Owner's equity
+ -$600     =   No Effect    +            -$600
+```
+
 Since ASC is paying $600, its assets decrease. The second effect is a $600 decrease in owner's equity, because the transaction involves an expense. (An expense is a cost that is used up or its future economic value cannot be measured.)
 
 Although owner's equity is decreased by an expense, the transaction is not recorded directly into the owner's capital account at this time. Instead, the amount is initially recorded in the expense account Advertising Expense and in the asset account Cash.
 
 The general journal entry to record the transaction is:
 
-14X-journal-05
+```
+Date              Account Name                     Debit          Credit
+————————————————————————————————————————————————————————————————————————
+Dec. 5, 2016      Advertising Expense                600
+                      Cash                                           600
+```
+
 The combined effect of the first five transactions is available here:
 
-14x-simple-table-13
+```
+Transaction     Assets   =   Liabilities   +   Owner's equity
+          1   +$10,000   =     No effect   +         +$10,000
+          2      -$100   =     No effect   +            -$100
+               +$5,000
+          3              =     No effect   +        No effect
+               -$5,000
+          4    +$7,000   =       +$7,000   +        No effect
+          5      -$600   =     No effect   +            -$600  
+              ————————         —————————            —————————
+      Total    $16,300   =        $7,000   +           $9,300
+```
+
 The totals now indicate that Accounting Software Co. has assets of $16,300. The creditors provided $7,000 and the owner of the company provided $9,300. Viewed another way, the company has assets of $16,300 with the creditors having a claim of $7,000 and the owner having a residual claim of $9,300.
 
 The balance sheet as of the end of December 5, 2016 is:
 
-14X-table-05
+```
+                            Accounting Software Co.
+                                Balance sheet
+                               December 5, 2016
+
+
+ASSETS                               LIABILITIES
+───────────────────────────────────  ───────────────────────────────────
+Cash                      $  11,300  Notes Payable             $   7,000
+Equipment                 $   5,000          
+                                     OWNER'S EQUITY
+                                     ───────────────────────────────────
+                                     J. Ott, Capital           $   9,300
+
+———————————————————————————————————  ———————————————————————————————————
+Total assets              $  16,900  Total                     $  16,900
+```
+
+```
+                        Beginning owner's equity               $       0
+                        + Owner's investment                   +  10,000
+                        + Net income**                         +   (600)
+                                                               _________
+                           Subtotal                            $   9,400
+                        - J. Ott, Drawing                      -     100
+                                                               _________
+                        Ending owner's equity, Dec. 5          $   9,300                                       
+```
+
 **The income statement (which reports the company's revenues, expenses, gains, and losses during a specified time interval) is a link between balance sheets. It provides the results of operations—an important part of the change in owner's equity.
 
 Since this transaction involves an expense, it will involve ASC's income statement. The company's income statement for the first five days of December is:
 
-14X-table-06
-Sole Proprietorship Transaction #6.
+```
+            Accounting Software Co.
+               Income Statement
+     For the Five Days Ended December 5, 2016  
+     
+Revenues
+   Service revenues                        $     0
+Expenses
+   Advertising expense                     $   600
+                                           _______
+Net income                                 $  (600)                                           
+```
+
+**Sole Proprietorship Transaction #6.**
 
 On December 6, 2016 ASC performs consulting services for its clients. The clients are billed for the agreed upon amount of $900. The amounts are due in 30 days. The effect on the accounting equation is:
 
-14x-simple-table-14
+```
+Assets     =  Liabilities   +   Owner's equity
+ +$900     =   No Effect    +            +$900
+```
+
 Since ASC has performed the services, it has earned revenues and it has the right to receive $900 from the clients. This right (known as an account receivable) causes assets to increase. The earning of revenues causes owner's equity to increase.
 
 Although revenues cause owner's equity to increase, the revenue transaction is not recorded into the owner's capital account at this time. Rather, the amount earned is recorded in the revenue account Service Revenues. This will allow the company to report the revenues on its income statement at any time. (After the year ends, the amount in the revenue account will be transferred to the owner's capital account.)
 
 The general journal entry to record the transaction is:
 
-14X-journal-06
+```
+Date              Account Name                     Debit          Credit
+————————————————————————————————————————————————————————————————————————
+Dec. 6, 2016      Accounts Receivable                900
+                      Services Revenues                              900
+```
+
 The combined effect of the first six transactions can be viewed here:
 
-14x-simple-table-15
+```
+Transaction     Assets   =   Liabilities   +   Owner's equity
+          1   +$10,000   =     No effect   +         +$10,000
+          2      -$100   =     No effect   +            -$100
+               +$5,000
+          3              =     No effect   +        No effect
+               -$5,000
+          4    +$7,000   =       +$7,000   +        No effect
+          5      -$600   =     No effect   +            -$600
+          6      +$900   =     No effect   +            +$900
+              ————————         —————————            —————————
+      Total    $17,200   =        $7,000   +          $10,200
+```
+
 The totals tell us that at the end of December 6, the company has assets of $17,200. It also shows the sources of the assets: creditors providing $7,000 and the owner of the company providing $10,200. The totals also reveal that the company has assets of $17,200 and the creditors have a claim of $7,000 and the owner has a claim for the remaining $10,200.
 
 Below is the balance sheet as of midnight on December 6:
 
-14X-table-07
+```
+                            Accounting Software Co.
+                                Balance sheet
+                               December 6, 2016
+
+
+ASSETS                               LIABILITIES
+───────────────────────────────────  ───────────────────────────────────
+Cash                      $  11,300  Notes Payable             $   7,000
+Accounts receivable       $     900
+Equipment                 $   5,000          
+                                     OWNER'S EQUITY
+                                     ───────────────────────────────────
+                                     J. Ott, Capital           $  10,200
+
+———————————————————————————————————  ———————————————————————————————————
+Total assets              $  17,200  Total                     $  17,200
+```
+
+```
+                        Beginning owner's equity               $       0
+                        + Owner's investment                   +  10,000
+                        + Net income**                         +     300
+                                                               _________
+                           Subtotal                            $  10,300
+                        - J. Ott, Drawing                      -     100
+                                                               _________
+                        Ending owner's equity, Dec. 6          $  10,200                                       
+```
+
 **The income statement (which reports the company's revenues, expenses, gains, and losses during a specified time interval) is a link between balance sheets. It provides the results of operations—an important part of the change in owner's equity.
 
 The Income Statement for Accounting Software Co. for the period of December 1 through December 6 is:
 
-14X-table-08
+```
+            Accounting Software Co.
+               Income Statement
+     For the Five Days Ended December 6, 2016  
+     
+Revenues
+   Service revenues                        $   900
+Expenses
+   Advertising expense                     $   600
+                                           _______
+Net income                                 $   300                                           
+```
+
+**Sole Proprietorship Transaction #7.**
+
+On December 7, 2016 ASC uses a temporary help service for 6 hours at a cost of $20 per hour. ASC will pay the invoice when it is due in 10 days. The effect on its accounting equation is:
+
+```
+Assets     =  Liabilities   +   Owner's equity
+No effect  =        +$120   +            -$120
+```
+
+ASC's liabilities increase by $120 and the expense causes owner's equity to decrease by $120.
+
+The liability will be recorded in Accounts Payable and the expense will be reported in Temp Service Expense. The journal entry for recording the use of the temp service is:
+
+```
+Date              Account Name                     Debit          Credit
+————————————————————————————————————————————————————————————————————————
+Dec. 7, 2016      Temp Service Expense               120
+                      Accounts Payable                               120
+```
+
+The effect of the first seven transactions on the accounting equation can be viewed here:
+
+```
+Transaction     Assets   =   Liabilities   +   Owner's equity
+          1   +$10,000   =     No effect   +         +$10,000
+          2      -$100   =     No effect   +            -$100
+               +$5,000
+          3              =     No effect   +        No effect
+               -$5,000
+          4    +$7,000   =       +$7,000   +        No effect
+          5      -$600   =     No effect   +            -$600
+          6      +$900   =     No effect   +            +$900
+          7  No effect   =         +$120   +            -$120
+              ————————         —————————            —————————
+      Total    $17,200   =        $7,120   +          $10,080
+```
+
+The totals show us that the company has assets of $17,200 and the sources are the creditors with $7,120 and the owner of the company with $10,080. The accounting equation totals also tell us that the company has assets of $17,200 with the creditors having a claim of $7,120. This means that the owner's residual claim is $10,080.
+
+The financial position of ASC as of midnight on December 7, 2016 is:
+
+```
+                            Accounting Software Co.
+                                Balance sheet
+                               December 7, 2016
+
+
+ASSETS                               LIABILITIES
+───────────────────────────────────  ───────────────────────────────────
+Cash                      $  11,300  Notes Payable             $   7,000
+Accounts receivable       $     900  Accounts payable          $     120
+                                                              __________
+Equipment                 $   5,000     Total liabilities      $   7,120   
+
+                                     OWNER'S EQUITY
+                                     ───────────────────────────────────
+                                     J. Ott, Capital           $  10,080
+
+———————————————————————————————————  ———————————————————————————————————
+Total assets              $  17,200  Total                     $  17,200
+```
+
+```
+                        Beginning owner's equity               $       0
+                        + Owner's investment                   +  10,000
+                        + Net income**                         +     180
+                                                               _________
+                           Subtotal                            $  10,180
+                        - J. Ott, Drawing                      -     100
+                                                               _________
+                        Ending owner's equity, Dec. 7          $  10,080                                       
+```
+
+**The income statement (which reports the company's revenues, expenses, gains, and losses for a specified time interval) is a link between balance sheets. It provides the results of operations—an important part of the change in owner's equity.
+
+Accounting Software Co.'s income statement for the first seven days of December is:
+
+```
+            Accounting Software Co.
+               Income Statement
+     For the Five Days Ended December 7, 2016  
+     
+Revenues
+   Service revenues                        $   900
+Expenses
+   Advertising expense                     $   600
+   Temp service expense                    $   120
+                                           _______
+     Total expenses                        $   720                                      
+                                           _______
+Net income                                 $   180                                           
+```
+
+**Sole Proprietorship Transaction #8.**
+
+On December 8, 2016 ASC receives $500 from the clients it had billed on December 6, 2016. The collection of accounts receivables has this effect on the accounting equation:
+
+```
+Assets     =  Liabilities   +   Owner's equity
+ +$500
+           =    No effect   +        No effect
+ -$500          
+```
+
+The company's asset (cash) increases and another asset (accounts receivable) decreases. Liabilities and owner's equity are unaffected. (There are no revenues on this date. The revenues were recorded when they were earned on December 6.)
+
+The general journal entry to record the increase in Cash, and the decrease in Accounts Receivable is:
+
+```
+Date              Account Name                     Debit          Credit
+————————————————————————————————————————————————————————————————————————
+Dec. 8, 2016      Cash                               500
+                      Accounts Receivable                            500
+```
+
+The combined effect of the first eight transactions is shown here:
+
+
+```
+Transaction     Assets   =   Liabilities   +   Owner's equity
+          1   +$10,000   =     No effect   +         +$10,000
+          2      -$100   =     No effect   +            -$100
+               +$5,000
+          3              =     No effect   +        No effect
+               -$5,000
+          4    +$7,000   =       +$7,000   +        No effect
+          5      -$600   =     No effect   +            -$600
+          6      +$900   =     No effect   +            +$900
+          7  No effect   =         +$120   +            -$120
+                 +$500
+          8              =     No effect   +        No effect
+                 -$500
+              ————————         —————————            —————————
+      Total    $17,200   =        $7,120   +          $10,080
+```
+
+The totals for the first eight transactions indicate that the company has assets of $17,200. The creditors provided $7,120 and the owner provided $10,080. The accounting equation also indicates that the company's creditors have a claim of $7,120 and the owner has a residual claim of $10,080.
+
+ASC's balance sheet as of midnight December 8, 2016 is:
+
+```
+                            Accounting Software Co.
+                                Balance sheet
+                               December 8, 2016
+
+
+ASSETS                               LIABILITIES
+───────────────────────────────────  ───────────────────────────────────
+Cash                      $  11,300  Notes Payable             $   7,000
+Accounts receivable       $     400  Accounts payable          $     120
+                                                              __________
+Equipment                 $   5,000     Total liabilities      $   7,120   
+
+                                     OWNER'S EQUITY
+                                     ───────────────────────────────────
+                                     J. Ott, Capital           $  10,080
+
+———————————————————————————————————  ———————————————————————————————————
+Total assets              $  17,200  Total                     $  17,200
+```
+
+```
+                        Beginning owner's equity               $       0
+                        + Owner's investment                   +  10,000
+                        + Net income**                         +     180
+                                                               _________
+                           Subtotal                            $  10,180
+                        - J. Ott, Drawing                      -     100
+                                                               _________
+                        Ending owner's equity, Dec. 7          $  10,080                                       
+```
+
+**The income statement (which reports the company's revenues, expenses, gains, and losses during a specified period of time) is a link between balance sheets. It provides the results of operations—an important part of the change in owner's equity.
+
+The income statement for ASC for the eight days ending on December 8 is shown here:
+
+```
+            Accounting Software Co.
+               Income Statement
+     For the Five Days Ended December 8, 2016  
+     
+Revenues
+   Service revenues                        $   900
+Expenses
+   Advertising expense                     $   600
+   Temp service expense                    $   120
+                                           _______
+     Total expenses                        $   720                                      
+                                           _______
+Net income                                 $   180                                           
+```
