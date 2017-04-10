@@ -21,6 +21,8 @@
 1. [Corporation transaction c6](#corporation-transaction-c6)
 1. [Corporation transaction c7](#corporation-transaction-c7)
 1. [Corporation transaction c8](#corporation-transaction-c8)
+1. [Expanded accounting equation for a sole proprietorship](#expanded-accounting-equation-for-a-sole-proprietorship)
+1. [Expanded accounting equation for a corporation](#expanded-accounting-equation-for-a-corporation)
 
 
 ## Introduction to the accounting equation
@@ -752,20 +754,20 @@ The owner's equity at December 31, 2015 can be computed using the accounting equ
 
 
 ```
-             Assetes   =   Liabilities   +                    Owner's Equity
-           $ 100,000   =      $ 40,000   +                    Owner's Equity
-$ 100,000 - $ 40,000   =                                      Owner's Equity    
-            $ 60,000   =                     Owner's Equity at Dec. 31, 2015
+             Assetes   =   Liabilities   +   Owner's Equity
+           $ 100,000   =      $ 40,000   +   Owner's Equity
+$ 100,000 - $ 40,000   =                     Owner's Equity    
+            $ 60,000   =    Owner's Equity at Dec. 31, 2015
 ```
 
 **Step 2.**
 The owner's equity at December 31, 2016 can be computed as well:
 
 ```
-             Assetes   =   Liabilities   +                    Owner's Equity
-           $ 128,000   =      $ 34,000   +                    Owner's Equity
-$ 128,000 - $ 34,000   =                                      Owner's Equity    
-            $ 94,000   =                     Owner's Equity at Dec. 31, 2016
+             Assetes   =   Liabilities   +   Owner's Equity
+           $ 128,000   =      $ 34,000   +   Owner's Equity
+$ 128,000 - $ 34,000   =                     Owner's Equity    
+            $ 94,000   =    Owner's Equity at Dec. 31, 2016
 ```
 
 **Step 3.**
@@ -909,11 +911,11 @@ Dec. 2, 2016    Treasury Stock                 100
 Since the transactions of December 1 and 2 were each in balance, the sum of both transactions should also be in balance:
 
 ```
-Transaction       Assets   =   Liabilities   +   Stockholders' Equity
-         C1   + $ 10,000   =     No effect   +             + $ 10,000
-         C2   - $    100   =     No effect   +             - $    100
-—————————————————————————————————————————————————————————————————————         
-     Totals     $  9,900   =        $    0   +               $  9,900
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+——————————————————————————————————————————————————————————————————        
+     Totals   $ 9,900   =        $    0   +                $ 9,900
 ```
 
 The totals indicate that ASI has assets of $9,900 and the source of those assets is the stockholders. The accounting equation also shows that the corporation has assets of $9,900 and the only claim against those resources is the stockholders' claim.
@@ -977,14 +979,14 @@ Dec. 3, 2016    Equipment                    5,000
 The effect on the accounting equation from the first three transactions is:
 
 ```
-Transaction       Assets   =   Liabilities   +   Stockholders' Equity
-         C1   + $ 10,000   =     No effect   +             + $ 10,000
-         C2   - $    100   =     No effect   +             - $    100
-              + $  5,000
-         C3                =     No effect   +              No effect
-              - $  5,000   
-—————————————————————————————————————————————————————————————————————         
-     Totals     $  9,900   =        $    0   +               $  9,900
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+             +$ 5,000
+         C3             =     No effect   +              No effect
+             -$ 5,000   
+——————————————————————————————————————————————————————————————————       
+     Totals   $ 9,900   =        $    0   +                $ 9,900
 ```
 
 The totals tell us that the corporation has assets of $9,900 and the source of those assets is the stockholders. The totals tell us that the company has assets of $9,900 and that the only claim against those assets is the stockholders' claim.
@@ -1046,15 +1048,15 @@ Dec. 4, 2016    Cash                         7,000
 To see the effect on the accounting equation from the first four transactions:
 
 ```
-Transaction       Assets   =   Liabilities   +   Stockholders' Equity
-         C1   + $ 10,000   =     No effect   +             + $ 10,000
-         C2   - $    100   =     No effect   +             - $    100
-              + $  5,000
-         C3                =     No effect   +              No effect
-              - $  5,000   
-         C4   + $  7,000   =     + $ 7,000   +              No effect  
-—————————————————————————————————————————————————————————————————————         
-     Totals     $ 16,900   =       $ 7,000   +               $  9,900
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+             +$ 5,000
+         C3             =     No effect   +              No effect
+             -$ 5,000   
+         C4  +$ 7,000   =     + $ 7,000   +              No effect  
+——————————————————————————————————————————————————————————————————        
+     Totals  $ 16,900   =       $ 7,000   +                $ 9,900
 ```
 
 These totals indicate that the transactions through December 4 result in assets of $16,900. There are two sources for those assets: the creditors provided $7,000 of assets, and the stockholders provided $9,900. You can also interpret the accounting equation to say that the corporation has assets of $16,900 and the creditors have a claim of $7,000. The residual or remainder of $9,900 is the stockholders' claim.
@@ -1117,22 +1119,21 @@ Dec. 5, 2016    Advertising Expense            600
 The combined effect of the first five transactions is:
 
 ```
-Transaction       Assets   =   Liabilities   +   Stockholders' Equity
-         C1   + $ 10,000   =     No effect   +             + $ 10,000
-         C2   - $    100   =     No effect   +             - $    100
-              + $  5,000
-         C3                =     No effect   +              No effect
-              - $  5,000   
-         C4   + $  7,000   =     + $ 7,000   +              No effect 
-         C5   - $    600   =     No effect   +             - $    600
-—————————————————————————————————————————————————————————————————————         
-     Totals     $ 16,300   =       $ 7,000   +               $  9,300
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+             +$ 5,000
+         C3             =     No effect   +              No effect
+             -$ 5,000   
+         C4  +$ 7,000   =     + $ 7,000   +              No effect 
+         C5  -$   600   =     No effect   +               -$   600
+——————————————————————————————————————————————————————————————————        
+     Totals  $ 16,300   =       $ 7,000   +                $ 9,300
 ```
 
 The totals now indicate that Accounting Software, Inc. has assets of $16,300. The creditors provided $7,000 and the stockholders provided $9,300. Viewed another way, the corporation has assets of $16,300 with the creditors having a claim of $7,000 and the stockholders having a claim of $9,300.
 
 The balance sheet as of the end of December 5, 2016 is presented here:
-
 
 ```
                       Accounting Software Co.
@@ -1206,20 +1207,310 @@ Dec. 6, 2016    Accounts Receivable            900
 The effect on the accounting equation from the first six transactions can be viewed here:
 
 ```
-Transaction       Assets   =   Liabilities   +   Stockholders' Equity
-         C1   + $ 10,000   =     No effect   +             + $ 10,000
-         C2   - $    100   =     No effect   +             - $    100
-              + $  5,000
-         C3                =     No effect   +              No effect
-              - $  5,000   
-         C4   + $  7,000   =     + $ 7,000   +              No effect 
-         C5   - $    600   =     No effect   +             - $    600
-         C6   + $    900   =     No effect   +             + $    900
-—————————————————————————————————————————————————————————————————————         
-     Totals     $ 17,200   =       $ 7,000   +               $ 10,200
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+             +$ 5,000
+         C3             =     No effect   +              No effect
+             -$ 5,000   
+         C4  +$ 7,000   =     + $ 7,000   +              No effect 
+         C5  -$   600   =     No effect   +               -$   600
+         C6  +$   900   =     No effect   +               +$   900
+——————————————————————————————————————————————————————————————————        
+     Totals   $17,200   =       $ 7,000   +                $10,200
 ```
 
 The totals tell us that at the end of December 6, the corporation has assets of $17,200. It also shows that $7,000 of the assets came from creditors and that $10,200 came from stockholders. The totals can also be viewed another way: ASI has assets of $17,200 with its creditors having a claim of $7,000 and the stockholders having a claim for the remainder or residual of $10,200.
 
 The balance sheet as of midnight on December 6, 2016 is presented here:
+
+```
+                      Accounting Software Co.
+                           Balance sheet
+                          December 6, 2016
+
+
+ASSETS                            LIABILITIES
+────────────────────────────────  ────────────────────────────────
+Cash                   $  11,300    Notes Payable        $   7,000
+Accounts receivable    $     900  Stockholders' Equity         
+Equipment              $   5,000    Common stock         $  10,000
+                                    Retained earnings    $     300
+                                    Less: Treasury stock $    (100)
+                                                        __________
+                                   Total stockholders' 
+                                                 equity  $  10,200
+                      __________                        __________
+                                  Total liabilities & 
+Total assets           $  17,200    stockholders' equity $  17,200  
+```
+
+```
+                  Beginning retained earnings            $       0
+                  + Net income**                       + $     300
+                                                         _________
+                     Subtotal                            $     300
+                  - Dividends                          - $       0
+                                                         _________
+                  Ending retained earnings, Dec. 6       $     300                                       
+```
+
+**The income statement (which reports the company's revenues, expenses, gains, and losses for a specified time period) is a link between balance sheets. It provides the results of operations—an important part of the change in retained earnings and stockholders' equity.
+
+The income statement for Accounting Software, Inc. for the period of December 1 through December 6 is shown here:
+
+```
+            Accounting Software Co.
+               Income Statement
+     For the Six Days Ended December 6, 2016  
+     
+Revenues                                   
+  Service Revenues                         $   900
+Expenses
+   Advertising expense                     $   600
+                                           _______
+Net income                                 $   300                                           
+```
+
+## Corporation transaction c7.
+
+On December 7, 2016 ASI uses a temporary help service for 6 hours at a cost of $20 per hour. ASI records the invoice immediately, but it will pay the $120 when it is due in 10 days. This transaction has the following effect on the accounting equation:
+
+```
+    Assets   =   Liabilities   +   Stockholders' Equity  
+ No effect   =       + $ 120   +                - $ 120      
+```
+
+The accounting equation shows that ASI's liabilities increase by $120 and the expense causes stockholders' equity to decrease by $120.
+
+The liability will be recorded in Accounts Payable and the expense will be recorded in Temp Service Expense. The general journal entry for utilizing the temp service is:
+
+```
+Date            Account Name                 Debit          Credit
+——————————————————————————————————————————————————————————————————
+Dec. 7, 2016    Temp Service Expense           120
+                     Accounts Payable                          120
+```
+
+The effect of the first seven transactions on the accounting equation can be viewed here:
+
+```
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+             +$ 5,000
+         C3             =     No effect   +              No effect
+             -$ 5,000   
+         C4  +$ 7,000   =     + $ 7,000   +              No effect 
+         C5  -$   600   =     No effect   +               -$   600
+         C6  +$   900   =     No effect   +               +$   900
+         C7 No effect   =     + $   120   +               -$   120
+——————————————————————————————————————————————————————————————————        
+     Totals   $17,200   =       $ 7,120   +                $10,080
+```
+
+The totals show us that the corporation has assets of $17,200 and the sources are the creditors with $7,120 and the stockholders with $10,080. The accounting equation totals also reveal that the corporation's creditors have a claim of $7,120 and the stockholders have a claim for the remaining $10,080.
+
+The financial position of ASI as of midnight of December 7, 2016 is presented in the following balance sheet:
+
+```
+                      Accounting Software Co.
+                           Balance sheet
+                          December 7, 2016
+
+
+ASSETS                            LIABILITIES
+────────────────────────────────  ────────────────────────────────
+Cash                   $  11,300    Notes Payable        $   7,000
+Accounts receivable    $     900    Accounts Payable     $     120
+                                                        __________
+Equipment              $   5,000      Total liabilities  $   7,120
+                                  Stockholders' Equity         
+                                    Common stock         $  10,000
+                                    Retained earnings    $     180
+                                    Less: Treasury stock $    (100)
+                                                        __________
+                                   Total stockholders' 
+                                                 equity  $  10,080
+                      __________                        __________
+                                  Total liabilities & 
+Total assets           $  17,200    stockholders' equity $  17,200  
+```
+
+```
+                  Beginning retained earnings            $       0
+                  + Net income**                       + $     180
+                                                         _________
+                     Subtotal                            $     180
+                  - Dividends                          - $       0
+                                                         _________
+                  Ending retained earnings, Dec. 7       $     180                                       
+```
+
+**The income statement (which reports the corporations' revenues, expenses, gains, and losses for a specified time period) is a link between balance sheets. It provides the results of operations—an important part of the change in stockholders' equity.
+
+The income statement for the first seven days of December is shown here:
+
+```
+            Accounting Software Co.
+               Income Statement
+     For the Six Days Ended December 7, 2016  
+     
+Revenues                                   
+  Service Revenues                         $   900
+Expenses
+   Advertising expense                     $   600
+   Temp service expense                    $   120
+                                           _______
+     Total expenses                        $   720
+                                           _______
+Net income                                 $   180                                           
+```
+
+## Corporation transaction c8.
+
+On December 8, 2016 ASI receives $500 from the clients it had billed on December 6. The effect on the accounting equation is:
+
+```
+    Assets   =   Liabilities   +   Stockholders' Equity 
+   + $ 500 
+             =     No effect   +              No effect   
+   - $ 500          
+```
+
+The corporation's cash increases and one of its other assets (accounts receivable) decreases. Liabilities and stockholders' equity are unaffected. (There are no revenues on this date. The revenues were recorded when they were earned on December 6.)
+
+The general journal entry to record the increase in Cash and the decrease in Accounts Receivable is:
+
+```
+Date            Account Name                 Debit          Credit
+——————————————————————————————————————————————————————————————————
+Dec. 8, 2016    Cash                           500
+                     Accounts Receivable                       500
+```
+
+The effect on the accounting equation from the transactions through December 8 is shown here:
+
+```
+Transaction    Assets   =   Liabilities   +   Stockholders' Equity
+         C1  +$10,000   =     No effect   +               +$10,000
+         C2  -$   100   =     No effect   +               -$   100
+             +$ 5,000
+         C3             =     No effect   +              No effect
+             -$ 5,000   
+         C4  +$ 7,000   =     + $ 7,000   +              No effect 
+         C5  -$   600   =     No effect   +               -$   600
+         C6  +$   900   =     No effect   +               +$   900
+         C7 No effect   =     + $   120   +               -$   120
+             +$   500  
+         C8             =     No effect   +              No effect
+             -$   500
+——————————————————————————————————————————————————————————————————        
+     Totals   $17,200   =       $ 7,120   +                $10,080
+```
+
+The totals after the first eight transactions indicate that the corporation has assets of $17,200. The creditors have provided $7,120 and the company's stockholders have provided $10,080. The accounting equation also indicates that the company's creditors have a claim of $7,120 and the stockholders have a residual claim of $10,080.
+
+ASI's balance sheet as of midnight of December 8, 2016 is shown here:
+
+```
+                      Accounting Software Co.
+                           Balance sheet
+                          December 8, 2016
+
+
+ASSETS                            LIABILITIES
+────────────────────────────────  ────────────────────────────────
+Cash                   $  11,800    Notes Payable        $   7,000
+Accounts receivable    $     400    Accounts Payable     $     120
+                                                        __________
+Equipment              $   5,000      Total liabilities  $   7,120
+                                  Stockholders' Equity         
+                                    Common stock         $  10,000
+                                    Retained earnings    $     180
+                                    Less: Treasury stock $    (100)
+                                                        __________
+                                   Total stockholders' 
+                                                 equity  $  10,080
+                      __________                        __________
+                                  Total liabilities & 
+Total assets           $  17,200    stockholders' equity $  17,200  
+```
+
+```
+                  Beginning retained earnings            $       0
+                  + Net income**                       + $     180
+                                                         _________
+                     Subtotal                            $     180
+                  - Dividends                          - $       0
+                                                         _________
+                  Ending retained earnings, Dec. 8       $     180                                       
+```
+
+**The income statement (which reports the corporation's revenues, expenses, gains, and losses for a specified time period) is a link between balance sheets. It provides the results of operations—an important part of the change in stockholders' equity.
+
+The income statement for ASI's first eight days of operations is shown here:
+
+```
+            Accounting Software Co.
+               Income Statement
+     For the Six Days Ended December 8, 2016  
+     
+Revenues                                   
+  Service Revenues                         $   900
+Expenses
+   Advertising expense                     $   600
+   Temp service expense                    $   120
+                                           _______
+     Total expenses                        $   720
+                                           _______
+Net income                                 $   180                                           
+```
+
+## Expanded accounting equation for a sole proprietorship
+
+The owner's equity in the basic accounting equation is sometimes expanded to show the accounts that make up owner's equity: Owner's Capital, Revenues, Expenses, and Owner's Draws.
+
+Instead of the accounting equation, Assets = Liabilities + Owner's Equity, the **expanded accounting equation** is:
+
+```
+Assets = Liabilities + Owner's Capital + Revenues - Expenses - Owner's Draws         
+```
+
+The eight transactions that we had listed under the basic accounting equation **Transaction 8**, are shown in the following expanded accounting equation:
+
+**INSERTAR TABLA**
+
+With the expanded accounting equation, you can easily see the company's net income:
+
+```
+Revenues           $  900
+- Expenses         $  720
+                  _______
+Net income         $  180                  
+```
+
+## Expanded accounting equation for a corporation
+
+The stockholders' equity part of the basic accounting equation can also be expanded to show the accounts that make up stockholders' equity: Paid-in Capital, Revenues, Expenses, Dividends, and Treasury Stock.
+
+Instead of the accounting equation, Assets = Liabilities + Stockholders' Equity, the expanded accounting equation is:
+
+```
+Assets = Liabilities + Paid-in Capital + Revenues -Expenses - Dividends - Treasury Stock         
+```
+
+The eight transactions that we had listed under the basic accounting equation **Transaction C8** are shown in the following expanded accounting equation:
+
+**INSERTAR TABLA**
+
+With the expanded accounting equation, you can easily see the corporation's net income:
+
+```
+Revenues           $  900
+- Expenses         $  720
+                  _______
+Net income         $  180                  
+```
+
 
