@@ -6,7 +6,7 @@
 1. [How principles and guidelines affect financial statements](#how-principles-and-guidelines-affect-financial-statements)
 
 
-# Introduction to accounting principles
+## Introduction to accounting principles
 
 There are general rules and concepts that govern the field of accounting. These general rules–referred to as basic accounting **principles and guidelines**–form the groundwork on which more detailed, complicated, and legalistic accounting rules are based. For example, the Financial Accounting Standards Board (FASB) uses the basic accounting principles and guidelines as a basis for their own detailed and comprehensive set of accounting rules and standards.
 
